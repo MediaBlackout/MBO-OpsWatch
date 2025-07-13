@@ -1,0 +1,13 @@
+{
+    "zip_code": "06770",
+    "latitude": 41.492102,
+    "longitude": -73.0467423,
+    "prediction": "urban",
+    "confidence": 0.9791,
+    "embedding_shape": [
+        1,
+        768
+    ],
+    "tile_url": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/18/T/XL/2025/6/S2B_18TXL_20250625_0_L2A/TCI.tif",
+    "timestamp": "2025-07-13T15:06:51.599681"
+}

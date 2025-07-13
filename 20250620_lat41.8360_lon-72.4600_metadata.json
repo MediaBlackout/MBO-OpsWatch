@@ -1,0 +1,11 @@
+{
+    "image_source": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/19/T/BG/2025/6/S2C_19TBG_20250620_0_L2A/TCI.tif",
+    "acquisition_date": "20250620",
+    "latitude": 41.836,
+    "longitude": -72.46,
+    "embedding_shape": [
+        1,
+        768
+    ],
+    "timestamp": "2025-07-13T01:11:13.340516"
+}

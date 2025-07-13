@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-selfcheck.json
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Temporary files
+*.tmp
+*.temp
+temp_image.tif
+temp_tile.tif
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
+
+# Embeddings and large files
+*.npy
+*.png
+*.jpg
+*.tif
+*.json
+!output_metadata.json
+!*metadata.json
+!GEMINI_LEFTOFF.MD
+!GEMINI.md
+!README.md
+training_data/
+*lfs*
+.env
+gemini_approved_commands.config

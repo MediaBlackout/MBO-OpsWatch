@@ -1,0 +1,11 @@
+transformers
+timm
+scikit-learn
+Pillow
+requests
+numpy
+rasterio
+shapely
+pyproj
+boto3
+geopy
